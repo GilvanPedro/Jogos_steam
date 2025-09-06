@@ -15,8 +15,7 @@ horas jogadas e porcentagem de conquistas**.
 -   Mostra:
     -   Nome do jogo 🎮\
     -   Horas jogadas ⏱️\
-    -   \% de conquistas desbloqueadas 🏆\
--   Trata erros de jogos sem conquistas ou falhas na API.\
+-   Trata erros de jogos ou falhas na API.\
 -   Gera uma planilha `jogos_steam.xlsx` pronta para abrir no Excel.
 
 ------------------------------------------------------------------------
@@ -98,14 +97,6 @@ A planilha contém as seguintes colunas:
 -   **API Key inválida**: Confirme que colou a chave corretamente.\
 -   **Planilha vazia**: Pode indicar que o perfil está privado ou que
     houve erro na chamada da API.
-
-------------------------------------------------------------------------
-
-## 📌 Melhorias Futuras
-
--   Adicionar ícones e imagens dos jogos.\
--   Exportar para outros formatos (CSV, JSON).\
--   Interface gráfica para facilitar o uso.
 
 ------------------------------------------------------------------------
 
